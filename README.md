@@ -1,1 +1,1 @@
-# UGNTU-labs
+# UGNTU laboratory works.
